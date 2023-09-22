@@ -1,0 +1,47 @@
+Manifest-Version: 1.0
+
+Name: AndroidManifest.xml
+SHA-256-Digest: FfUMWOGbJFPHhYaoV6wiTfFTzHwC1RXcENGXiVqs2MI=
+
+Name: classes.dex
+SHA-256-Digest: 6NuXiodRt/9n2xqOuknQfV4oG8nFwf53TuX7lf4Ghro=
+
+Name: okhttp3/internal/publicsuffix/publicsuffixes.gz
+SHA-256-Digest: vo2mhtIIs05LPwv5CqLgt2OClWQRMsPwyqgbA0mQMv8=
+
+Name: res/drawable-xhdpi-v4/app_icon.png
+SHA-256-Digest: rXupILTsMKx/Avo/aNV8l7BWAUQUUOQHB15sTVwKC5U=
+
+Name: res/drawable-xhdpi-v4/default_image.png
+SHA-256-Digest: B0d9ijOaAGx/hf4odj1JhA/R45GJYIgbcpizgNCiiUc=
+
+Name: res/drawable-xhdpi-v4/feekback.png
+SHA-256-Digest: yoU2fDv/EZiEtYbKC/yCbJc867R8jcpFJNxmLiE5BYU=
+
+Name: res/drawable-xhdpi-v4/followme.png
+SHA-256-Digest: DLTCpyDp4H5JXQUZ/mwWEn9alB5V4EIyDKuOq6LfOkI=
+
+Name: res/drawable-xhdpi-v4/htmllogo.png
+SHA-256-Digest: fUYZC3tyvYb4Fd4WUPyCEd4MUT3HhYar5DLt+RZp+tY=
+
+Name: res/drawable-xhdpi-v4/ic_attachment_grey.png
+SHA-256-Digest: qOIxU9RdhX4uZvYcm5dCLWJOe/YO4fiVBZwIdlAtRZw=
+
+Name: res/drawable-xhdpi-v4/pencil.png
+SHA-256-Digest: w1ULLcxvpT1WiaTA9p6uyGufKL1BVqnYsIsrWVInlsA=
+
+Name: res/layout/code.xml
+SHA-256-Digest: mSU3uR5nBGfSAeRwUhUBby34gKo8tHnj5/LeE9v/wEw=
+
+Name: res/layout/cus.xml
+SHA-256-Digest: RH56i3CrGArxHn/Ovg9HYKIqyMo8en/XhLMiihNBm60=
+
+Name: res/layout/lessonhome.xml
+SHA-256-Digest: p9wz0VEDA2YokCo83LRwjQ9SGFQyQ3ckriPj2Kf13NI=
+
+Name: res/layout/main.xml
+SHA-256-Digest: o5eXkxRr5ZgfwUZmICM6ncGF6xBaF1llWNSrAqiGmO4=
+
+Name: resources.arsc
+SHA-256-Digest: 4AqkmUBY/S9NvGJ/EVNi9zW231GWkGKsXClW0Gqo4ss=
+

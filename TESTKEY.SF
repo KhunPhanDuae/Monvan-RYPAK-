@@ -1,0 +1,50 @@
+Signature-Version: 1.0
+Created-By: 1.0 (Android)
+SHA-256-Digest-Manifest: lQu2BLiPWdgoi6uO/MuR4ALFVDLth1I98u7e8hx4gTo=
+X-Android-APK-Signed: 2, 3
+
+Name: AndroidManifest.xml
+SHA-256-Digest: aV1GG+6cLRRxNuM/URRH/Ww4VTCPADNG4oz+GCKzQ2M=
+
+Name: classes.dex
+SHA-256-Digest: zqHgbf+l0Hg/2c8Q5fZeGWk9SquIk2PRxAjGwqIX1dg=
+
+Name: okhttp3/internal/publicsuffix/publicsuffixes.gz
+SHA-256-Digest: q3PmZLeqG/rSkGldAD1dBfM3Ql9BbIQ/f+h2zBvPYzg=
+
+Name: res/drawable-xhdpi-v4/app_icon.png
+SHA-256-Digest: IyDe+pEx/s/eB2qzLY8lvMbEM/7NAkfoc5MHmhS44BE=
+
+Name: res/drawable-xhdpi-v4/default_image.png
+SHA-256-Digest: aktsDrhwy3ex8ad59r3aoV+5TJncFYVy98Lcvjc4s44=
+
+Name: res/drawable-xhdpi-v4/feekback.png
+SHA-256-Digest: MgNoJCA0k//y7OQb3xgFW92gAabteP4a2mcHpKPXjfE=
+
+Name: res/drawable-xhdpi-v4/followme.png
+SHA-256-Digest: GUEzzVi7OSXz2Is3Tz+Lz1EXsRTVCJ1JXV35sZDZE0E=
+
+Name: res/drawable-xhdpi-v4/htmllogo.png
+SHA-256-Digest: wL1l95NFtmr3Ho88j+w5jdTtocDaDPCDrYuSRyfxo/M=
+
+Name: res/drawable-xhdpi-v4/ic_attachment_grey.png
+SHA-256-Digest: 7EvepJp7vq2cbBONBUEoP9GAraoxaY5CCiWvaW9PDW8=
+
+Name: res/drawable-xhdpi-v4/pencil.png
+SHA-256-Digest: GTAFpyFX2jACDZAxSZGE4VPF6UD+5D83751fNm6m184=
+
+Name: res/layout/code.xml
+SHA-256-Digest: xGVnXM+HUWa5cdA+ZG/PLHARnL2YmBmP5QTK3OWUvsc=
+
+Name: res/layout/cus.xml
+SHA-256-Digest: cm1avKwblC8g/Z2i4pBi43wjwRwpeIdDJLtmETa+X30=
+
+Name: res/layout/lessonhome.xml
+SHA-256-Digest: CoMOJ+OpRDTWiHmIJLpQLYrsbNjNRRgIs8JAHJtAj4g=
+
+Name: res/layout/main.xml
+SHA-256-Digest: oHoLSVlgaHIdD9dXXLSiG4bIA5m3UIgI+MxOte/3Nlk=
+
+Name: resources.arsc
+SHA-256-Digest: veJ3W7uLVUAlPBljAWh9vWT2xK4M40eHJXWpNDEkoSc=
+
